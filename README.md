@@ -11,6 +11,7 @@ We want to build a classifier that is able to predict if a given headline text i
 - design and implement a suitable data pre-processing procedure;
 - implement, train and evaluate one or more classification models;
 - use suitable data processing and visualization techniques to analyze the behavior of the trained models.
+
 Two scenarios should be considered: a generic one, in which all errors are equally important, and a ‘precision-oriented’ scenario, in which we would like to keep as small as possible che chance of false positives.
 All the above should be implemented as scripts in the Python programming language.
 Any machine learning library (included pvml) can be used.
